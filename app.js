@@ -12,17 +12,18 @@ var mseptiawanRouter = require('./routes/mseptiawan');
 
 var app = express();
 app.use((req,res,next)=>{
-  res.setHeader("Access-Control-Allow-Login","*");
+  res.setHeader("Access-Control-Allow-Origin","*");
   res.setHeader(
     "Access-Control-Allow-Headers",
     "Origin, X-Requested-With,Content-Type, Accept"
   );
-  res.setHeader("Access-Control-Allow-Methods",)
+  res.setHeader("Access-Control-Allow-Methods","GET,POST,PATCH,DELETE,OPTIONS");
+  next();
 })
 
 
 mongoose.connect(
-  "mongodb+srv://septiawantechnology:U9tXJCipKSLqhKgt@septiawan.vaa84.mongodb.net/dbPariwisata?retryWrites=true&w=majority&appName=septiawan"
+  "mongodb://localhost:27017/dbPariwisata"
 ).then(()=>{
   console.log("udah terhubung nih");
 }).catch((err)=>{
@@ -41,6 +42,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/mseptiawan',mseptiawanRouter);
+
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));

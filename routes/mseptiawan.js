@@ -1,13 +1,13 @@
+// https://github.com/mseptiawan/mseptiawan
 
 
 var express = require('express');
 var router = express.Router();
 
-const Data = require('../model/data');
 const mseptiawanController = require('../controller/mseptiawan');
 
 
-router.post('/',mseptiawanController.create)
+router.post('/mseptiawan',mseptiawanController.create)
 
 
-module.exports.router;
+module.exports = router;
