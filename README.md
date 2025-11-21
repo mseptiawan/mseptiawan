@@ -6,19 +6,24 @@ Saya giat dalam pengembangan **Aplikasi yang inovatif** dan membuat **solusi unt
 
 ---
 
-<div style="display: flex; justify-content: space-around;">
-  <a href="https://github.com/mseptiawan">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=mseptiawan&show_icons=true&locale=en&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=00FFFF" 
-      alt="GitHub Stats" 
-    />
-  </a>
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mseptiawan&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff" 
-    alt="Most Used Languages" 
-  />
-</div>
+<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="padding: 10px; text-align: right; border: none;">
+      <a href="https://github.com/mseptiawan">
+      <img 
+  src="https://github-readme-stats.vercel.app/api?username=mseptiawan&show_icons=true&locale=en&theme=dark&cache_bust=NOMOR_ACAK_DISINI" 
+  alt="GitHub Stats" 
+/>
+      </a>
+    </td>
+    <td style="padding: 10px; text-align: left; border: none;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mseptiawan&show_icons=true&locale=en&layout=compact&theme=dark" 
+        alt="Most Used Languages" 
+      />
+    </td>
+  </tr>
+</table>
 
 <br clear="both"/>
 
@@ -27,10 +32,6 @@ Saya giat dalam pengembangan **Aplikasi yang inovatif** dan membuat **solusi unt
 ## 💻 Teknologi
 
 <p align="left">
-  <strong>Stack:</strong>
-  &nbsp; React &nbsp; • &nbsp; TypeScript &nbsp; • &nbsp; TailwindCSS &nbsp; • &nbsp; Python &nbsp; • &nbsp; Django &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; MySQL &nbsp; • &nbsp; Laravel &nbsp; • &nbsp; Docker
-  <br/><br/>
-
   <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   &nbsp;
