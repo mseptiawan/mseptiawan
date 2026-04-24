@@ -1,12 +1,7 @@
 
 # Welcome to my GitHub profile!
 
-Saya giat dalam pengembangan **Aplikasi yang inovatif** dan membuat **solusi untuk masyarakat**.
-
----
-
 <br clear="both"/>
-
 
 ## 🔗 Contact
 
