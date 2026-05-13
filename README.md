@@ -2,15 +2,15 @@
 
 <br clear="both"/>
 
-## GitHub Stats
+| Summary | Streak |
+|--------|--------|
+| ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mseptiawan&theme=github_dark) | ![GitHub Streak](https://streak-stats.demolab.com?user=mseptiawan&theme=github-dark&hide_border=true) |
 
 | Stats | Top Languages |
 |------|------|
 | ![Stats](https://github-readme-stats-kappa-murex-68.vercel.app/api?username=mseptiawan&show_icons=true&theme=github_dark&hide_border=true) | ![Top Langs](https://github-readme-stats-kappa-murex-68.vercel.app/api/top-langs/?username=mseptiawan&layout=compact&theme=github_dark&hide_border=true&hide=blade,html,css,php) |
 
 ---
-
-
 
 ## Goals
 
