@@ -4,7 +4,11 @@
 
 ## GitHub Stats
 
-![Septiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mseptiawan)
+| Stats | Top Languages |
+|------|------|
+| ![Stats](https://github-readme-stats-kappa-murex-68.vercel.app/api?username=mseptiawan&show_icons=true&theme=github_dark&hide_border=true) | ![Langs](https://github-readme-stats-kappa-murex-68.vercel.app/api/top-langs/?username=mseptiawan&layout=compact&theme=github_dark&hide_border=true) |
+
+---
 
 ## Goals
 
