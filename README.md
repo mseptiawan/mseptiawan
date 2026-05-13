@@ -4,7 +4,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mseptiawan&show_icons=true&theme=tokyonight&hide_border=true)
+![Septiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mseptiawan)
 
 ## Goals
 
