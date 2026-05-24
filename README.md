@@ -4,7 +4,7 @@
 
 | Stats | Top Languages |
 |------|------|
-| ![GitHub Stats](https://github-readme-stats-kappa-murex-68.vercel.app/api?username=mseptiawan&show_icons=true&count_private=true&theme=github_dark&hide_border=true) | ![Top Langs](https://github-readme-stats-kappa-murex-68.vercel.app/api/top-langs/?username=mseptiawan&layout=compact&theme=github_dark&hide_border=true&hide=blade,html,css,php) |
+| ![GitHub Stats](https://github-readme-stats-kappa-murex-68.vercel.app/api?username=mseptiawan&show_icons=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=0&v=2) | ![Top Langs](https://github-readme-stats-kappa-murex-68.vercel.app/api/top-langs/?username=mseptiawan&layout=compact&theme=github_dark&hide_border=true&hide=blade,html,css,php) |
 
 ---
 
