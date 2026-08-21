@@ -1,6 +1,6 @@
 # Hi, I'm M. Septiawan 👋
 
-Backend Developer focused on building scalable web applications and workflow automation. Currently finalizing a production-level HRIS system with modular architecture and role-based approvals.
+-
 
 ---
 
