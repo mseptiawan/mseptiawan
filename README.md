@@ -1,6 +1,6 @@
 # Hi, I'm M. Septiawan 👋
 
--
+Do something for someone else
 
 ---
 
