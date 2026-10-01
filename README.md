@@ -23,4 +23,4 @@
 ---
 ## 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/mseptiawan/) | [Email](mailto:mseptiawan017@gmail.com)
+[Email](mailto:mseptiawan017@gmail.com)
