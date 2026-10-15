@@ -1,4 +1,4 @@
-# Hai, saya M. Septiawan 👋
+# Hai, saya Wawan 👋
 
 **Junior Laravel Developer** | Lulusan Sistem Informasi, Palembang
 
@@ -8,7 +8,7 @@ Saya membangun aplikasi web dengan Laravel, PHP, dan MySQL, berangkat dari kebut
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind,js,html,css,docker,git" />
@@ -18,7 +18,7 @@ Saya membangun aplikasi web dengan Laravel, PHP, dan MySQL, berangkat dari kebut
 
 ---
 
-## 🚀 Proyek Pilihan
+## Proyek Pilihan
 
 | Proyek | Deskripsi | Teknologi |
 |---|---|---|
@@ -30,6 +30,6 @@ Saya membangun aplikasi web dengan Laravel, PHP, dan MySQL, berangkat dari kebut
 
 ---
 
-## 🤝 Mari Terhubung
+## Mari Terhubung
 
 [LinkedIn](https://www.linkedin.com/in/mseptiawan) · [Email](mailto:mseptiawan017@gmail.com)
