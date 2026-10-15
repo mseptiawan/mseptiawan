@@ -1,26 +1,35 @@
-# Hi, I'm M. Septiawan 👋
+# Hai, saya M. Septiawan 👋
 
-Do something for someone else
+**Junior Laravel Developer** | Lulusan Sistem Informasi, Palembang
 
----
+Saya membangun aplikasi web dengan Laravel, PHP, dan MySQL, berangkat dari kebutuhan nyata pengguna: dari analisis kebutuhan, perancangan database, sampai implementasi.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-kappa-murex-68.vercel.app/api?username=mseptiawan&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&cache_seconds=0&v=2" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats-kappa-murex-68.vercel.app/api/top-langs/?username=mseptiawan&layout=compact&theme=tokyonight&hide_border=false&hide=blade" alt="Top Langs" height="180px"/>
-</p>
+🟢 **Terbuka untuk magang dan posisi junior (on-site, remote, hybrid)**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Languages & Backend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,postgres,mongodb,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind,js,html,css,docker,git" />
 </p>
 
----
-## 🤝 Let's Connect
+**Sedang saya perdalam:** REST API, PHPUnit, deploy ke VPS
 
-[Email](mailto:mseptiawan017@gmail.com)
+---
+
+## 🚀 Proyek Pilihan
+
+| Proyek | Deskripsi | Teknologi |
+|---|---|---|
+| [Inventaris](https://github.com/mseptiawan/inventaris) | Sistem inventaris dan POS: stok, transaksi, stock opname, laporan, RBAC | Laravel, MySQL, Tailwind |
+| [Reservasi Meja Kafe](https://github.com/mseptiawan/reservasi-meja-kafe) | Reservasi meja dengan verifikasi pembayaran dan manajemen role | Laravel 11, Docker, Tailwind |
+| [Marketplace Jasa](https://github.com/mseptiawan/marketplace) | Marketplace jasa dengan chat, notifikasi, rating, dan geolokasi (proyek lomba) | Laravel, Pusher, Leaflet |
+| [Insentif Changhong](https://github.com/mseptiawan/insentif-changhong) | Perhitungan insentif promotor dari upload Excel (kerja praktik) | Laravel 12, MySQL |
+| [HRIS Zafa Tour](https://github.com/mseptiawan/website-zafa-tour) | Sistem kepegawaian: absensi, cuti, lembur, approval bertingkat (skripsi) | Node.js, MongoDB, Redis |
+
+---
+
+## 🤝 Mari Terhubung
+
+[LinkedIn](https://www.linkedin.com/in/mseptiawan) · [Email](mailto:mseptiawan017@gmail.com)
