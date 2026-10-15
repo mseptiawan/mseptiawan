@@ -4,7 +4,7 @@
 
 Saya membangun aplikasi web dengan Laravel, PHP, dan MySQL, berangkat dari kebutuhan nyata pengguna: dari analisis kebutuhan, perancangan database, sampai implementasi.
 
-🟢 **Terbuka untuk magang dan posisi junior (on-site, remote, hybrid)**
+**Terbuka untuk magang dan posisi junior (on-site, remote, hybrid)**
 
 ---
 
@@ -13,8 +13,6 @@ Saya membangun aplikasi web dengan Laravel, PHP, dan MySQL, berangkat dari kebut
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind,js,html,css,docker,git" />
 </p>
-
-**Sedang saya perdalam:** REST API, PHPUnit, deploy ke VPS
 
 ---
 
