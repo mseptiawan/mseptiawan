@@ -1,11 +1,4 @@
-# Hai, saya Wawan 👋
-
-**Junior Laravel Developer** | Lulusan Sistem Informasi, Palembang
-
-Saya membangun aplikasi web dengan Laravel, PHP, dan MySQL, berangkat dari kebutuhan nyata pengguna: dari analisis kebutuhan, perancangan database, sampai implementasi.
-
-**Terbuka untuk magang dan posisi junior (on-site, remote, hybrid)**
-
+Hi, Have a nice day!
 ---
 
 ## Tech Stack
