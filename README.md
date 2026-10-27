@@ -3,24 +3,34 @@ Hi, Have a nice day!
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind,js,html,css,docker,git" />
-</p>
+`PHP` `Laravel` `MySQL` `Tailwind` `JavaScript` `TypeScript` `Next.js` `Docker` `Git`
 
 ---
 
-## Proyek Pilihan
+## Projects
 
-| Proyek | Deskripsi | Teknologi |
-|---|---|---|
-| [Inventaris](https://github.com/mseptiawan/inventaris) | Sistem inventaris dan POS: stok, transaksi, stock opname, laporan, RBAC | Laravel, MySQL, Tailwind |
-| [Reservasi Meja Kafe](https://github.com/mseptiawan/reservasi-meja-kafe) | Reservasi meja dengan verifikasi pembayaran dan manajemen role | Laravel 11, Docker, Tailwind |
-| [Marketplace Jasa](https://github.com/mseptiawan/marketplace) | Marketplace jasa dengan chat, notifikasi, rating, dan geolokasi (proyek lomba) | Laravel, Pusher, Leaflet |
-| [Insentif Changhong](https://github.com/mseptiawan/insentif-changhong) | Perhitungan insentif promotor dari upload Excel (kerja praktik) | Laravel 12, MySQL |
-| [HRIS Zafa Tour](https://github.com/mseptiawan/website-zafa-tour) | Sistem kepegawaian: absensi, cuti, lembur, approval bertingkat (skripsi) | Node.js, MongoDB, Redis |
+> **[Inventory Management](https://github.com/mseptiawan/inventaris)** <br>
+> *Stack: Laravel, MySQL, Tailwind* <br>
+> Sistem inventaris dan POS untuk mengelola stok, transaksi, stock opname, laporan, dan RBAC.
+
+> **[Cafe Reservation](https://github.com/mseptiawan/reservasi-meja-kafe)** <br>
+> *Stack: Laravel 11, Docker, Tailwind* <br>
+> Sistem reservasi meja kafe dilengkapi verifikasi pembayaran dan manajemen role.
+
+> **[Marketplace Jasa](https://github.com/mseptiawan/marketplace)** <br>
+> *Stack: Laravel, Pusher, Leaflet* <br>
+> Marketplace jasa dengan fitur chat real-time, notifikasi, rating, dan geolokasi. *(Proyek Lomba)*
+
+> **[Incentive Promoter](https://github.com/mseptiawan/insentif-changhong)** <br>
+> *Stack: Laravel 12, MySQL* <br>
+> Sistem otomatisasi perhitungan insentif promotor berdasarkan unggahan file Excel. *(Kerja Praktik)*
+
+> **[HRIS System](https://github.com/mseptiawan/website-zafa-tour)** <br>
+> *Stack: Node.js, MongoDB, Redis* <br>
+> Sistem kepegawaian mencakup absensi, cuti, lembur, dan approval bertingkat. *(Skripsi)*
 
 ---
 
-## Mari Terhubung
+## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/mseptiawan) · [Email](mailto:mseptiawan017@gmail.com)
