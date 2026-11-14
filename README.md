@@ -3,7 +3,7 @@ Hi, Have a nice day!
 
 ## Tech Stack
 
-`PHP` `Laravel` `MySQL` `Tailwind` `JavaScript` `TypeScript` `Next.js` `Docker` `Git`
+`Golang` `Next.js` `Postgre`
 
 ---
 
